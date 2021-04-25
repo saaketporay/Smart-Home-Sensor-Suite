@@ -1,5 +1,9 @@
 # Smart-Home-Sensor-Suite
 
+https://devpost.com/software/smart-home-sensor-suite
+
+<img src='https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/492/074/datas/original.jpg' title='Header' width='' alt='Header' />
+
 ## Inspiration
 I wanted to make a project to analyze the temperature and humidity in my home garden. Having sensor data could help me correlate how the humidity and temperature affects plants. I also grill and needed something that can alert me to an excess of carbon monoxide or combustible gas.
 
